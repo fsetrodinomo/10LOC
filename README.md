@@ -1,12 +1,6 @@
 <div align="center">
   <h1>10 Lines of Code</h1>
 </div>
-
-
-<div align="center">
-  <i>Simple projects with a few lines of code in Python:
- </i>
-</div>
 <div align="left">
  - Converter CSV to JSON
 
