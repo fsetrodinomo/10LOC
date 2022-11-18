@@ -3,11 +3,6 @@
 </div>
 <div align="left">
  - Converter CSV to JSON
-
-</div>
-
-
-
-<div align="left">
-  <img src="https://media.giphy.com/media/13xxoHrXk4Rrdm/giphy.gif" width="250" height="200"/>
+ - Country info
+ - CV npm package(Still in progress)
 </div>
